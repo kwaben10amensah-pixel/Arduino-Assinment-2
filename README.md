@@ -28,4 +28,4 @@ This project was developed using an Arduino Uno to demonstrate the use of a 7-se
 - `README.md` – Project documentation.
 
 ## Author
-**Christian Tackie**
+**Kwabena Mensah**
